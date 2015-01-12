@@ -1,4 +1,8 @@
-imple Atari 2600 Demo
+© 2015 [BLACKTREES](http://blacktre.es)
+
+#Simple Atari 2600 Demo
+
+![Simple Atari Demo](https://raw.githubusercontent.com/monocult/simple-atari-2600-demo/master/dump.png)
 
 I visit SvOlli's "Retro Demo Coding" workshop at the 31C3 and after some cleanup this simple demo is my result.
 
